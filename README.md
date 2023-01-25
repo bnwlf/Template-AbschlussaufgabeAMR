@@ -87,12 +87,15 @@ Sie erkennen nun oben in der Übersicht zwei rote Streifen, die Unterschiede zu 
 
 ### Tablet-Aufgabe
 
-Tragen Sie hier bitte in dem Format ```<Referenz-Base><Position><Neue Base>``` ein, welche zwei Mutationen Sie in dem Mapping erkennen können (```T10A``` würde also beispielsweise bedeuten, dass in der Referenz an Position 10 die Base T steht, es aber laut der Reads an dieser Position eine Mutation zu A gibt):
+Tragen Sie hier bitte in dem Format ```<Referenz-Base><Position><Neue Base>``` ein, welche vier Mutationen Sie in dem Mapping erkennen können (```T10A``` würde also beispielsweise bedeuten, dass in der Referenz an Position 10 die Base T steht, es aber laut der Reads an dieser Position eine Mutation zu A gibt):
 
 ```text
 Mutation 1:
 Mutation 2:
+Mutation 3:
+Mutation 4
 ```
+**Hinweis:** *Tablet markiert möglicherweise nicht alle vier vorkommenden Mutationen in der Übersicht.*
 
 ## Antibiotika-Resistenzen
 
